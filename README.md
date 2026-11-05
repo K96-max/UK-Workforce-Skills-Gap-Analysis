@@ -1,7 +1,6 @@
-# UK-Workforce-Skills-Gap-Analysis
+# UK-Workforce-Skills-Gap-Analysis (2024)
 Analysis of UK workforce skills shortages, regional differences and employer training using Python and Tableau.
 
-# UK Workforce Skills Gap Analysis (2024)
 
 ## Project Overview
 
