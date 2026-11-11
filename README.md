@@ -29,7 +29,7 @@ Which industries and regions face the greatest skills-shortage pressures, and wh
 2. **Industry analysis:** compared estimated skills-gap volumes, skills-gap density and the share of vacancies caused by skills shortages.
 3. **Regional analysis:** compared skill-shortage vacancy measures across nine English regions and prepared regional results for mapping.
 4. **Training analysis:** compared training participation with skills-gap density and calculated a Pearson correlation across the industry-level observations.
-5. **Communication:** created exploratory charts in Python and developed a Tableau dashboard and map.
+5. **Communication:** prepared analysis outputs for visual reporting. The Tableau dashboard and map remain in development and are not included in this repository yet.
 
 ## Key findings
 
@@ -66,7 +66,8 @@ The analysis suggests that a single national response may not address every skil
 - Correlation does not establish causation.
 - Regional comparisons cover the nine English regions, not every UK nation.
 - Survey estimates and unavailable values must be interpreted in line with the source definitions.
-- The Tableau workbook/dashboard still needs to be added to this repository with a preview image.
+- The Tableau workbook/dashboard and preview image are not yet included in this repository.
+- The original `core_indicators_11_24.csv` source dataset is not included; users will need the source file locally to rerun the notebook.
 
 ## Repository contents
 
