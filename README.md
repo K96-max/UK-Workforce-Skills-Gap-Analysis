@@ -80,6 +80,7 @@ The analysis suggests that a single national response may not address every skil
 
 - [Python analysis](Python/UK_Workforce_Skills_Gap_Analysis.ipynb)
 - [Prepared datasets](Data/)
+- [Prepared data dictionary](Data/DATA_DICTIONARY.md)
 
 ## Business value
 
