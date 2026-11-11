@@ -90,13 +90,20 @@ The findings suggest that workforce development should be targeted to the nature
 - Survey estimates and unavailable values should be interpreted in line with the source data.
 - The Tableau dashboard and workbook are not currently present in the repository; these should be added with a dashboard preview before the project is presented as a finished visualisation case study.
 
-## Other project in this repository
-
-- [UK Labour Market Intelligence](UK-Labour-Market-Intelligence/README.md) – cleaned ONS time-series dataset and MySQL practice, with dashboard work still to be added.
-
 ## What this project demonstrates
 
 **Workforce analytics · public-sector data · data quality assessment · missing-value handling · Pandas · exploratory analysis · correlation interpretation · regional analysis · data visualisation · communicating workforce insights**
+
+
+## Interview preparation
+
+**30-second walkthrough:** “I used the UK Employer Skills Survey 2024 to investigate where skills shortages are concentrated across industries and English regions. I cleaned the survey data in Pandas, treated unavailable codes as missing rather than zero, compared industry and regional measures, and explored the relationship between training and skills-gap density. I then considered what the findings could mean for workforce capability planning.”
+
+**Connect it to the role:** This is particularly relevant to Workforce Insights, People Analytics, Learning and Development analytics and strategic workforce planning. It shows you can work with imperfect public data, define comparable measures and explain the limits of your conclusions.
+
+**Interview questions to practise:** Why did you treat the unavailable code as missing? Why compare both volume and percentage? What does the -0.17 correlation mean? Why is 13 observations a limitation? What further data would help evaluate whether training improves capability?
+
+**Be ready to demonstrate:** a missing-value decision, an industry comparison, a regional result and how you would turn the findings into a testable L&D or workforce-planning question.
 
 ---
 *Portfolio project by K96-max.*
