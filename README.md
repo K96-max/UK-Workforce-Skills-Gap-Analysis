@@ -90,6 +90,10 @@ The findings suggest that workforce development should be targeted to the nature
 - Survey estimates and unavailable values should be interpreted in line with the source data.
 - The Tableau dashboard and workbook are not currently present in the repository; these should be added with a dashboard preview before the project is presented as a finished visualisation case study.
 
+## Other project in this repository
+
+- [UK Labour Market Intelligence](UK-Labour-Market-Intelligence/README.md) – cleaned ONS time-series dataset and MySQL practice, with dashboard work still to be added.
+
 ## What this project demonstrates
 
 **Workforce analytics · public-sector data · data quality assessment · missing-value handling · Pandas · exploratory analysis · correlation interpretation · regional analysis · data visualisation · communicating workforce insights**
