@@ -78,7 +78,7 @@ The findings suggest that workforce development should be targeted to the nature
 | `Data/regional_analysis_2024.csv` | Regional analysis |
 | `Data/training_analysis_2024.csv` | Training analysis |
 
-- [View the Python analysis folder](Python/)
+- [Open the Python analysis notebook](Python/UK_Workforce_Skills_Gap_Analysis.ipynb) · [Browse the Python folder](Python/)
 - [Explore the prepared datasets](Data/)
 
 ## Limitations
