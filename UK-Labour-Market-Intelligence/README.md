@@ -10,7 +10,7 @@ A practical time-series analysis project using Office for National Statistics la
 - **Measures:** economic activity, employment, unemployment and economic inactivity rates
 - **Age groups:** population aged 16+ and 16–64
 
-The uploaded CSV is the cleaned analysis extract used in the MySQL practice workflow. It contains percentage measures and a period field; the original source extract and any additional workbook should be added separately if they are to be included in the public portfolio.
+The uploaded CSV is the cleaned analysis extract used in the MySQL workflow. It contains percentage measures and a period field.
 
 ## Questions explored
 
@@ -21,13 +21,19 @@ The uploaded CSV is the cleaned analysis extract used in the MySQL practice work
 
 ## Tools and learning
 
-Python / Pandas for data inspection and preparation; MySQL for importing, querying and comparing time-series observations; Excel and Tableau for planned reporting and dashboard presentation.
+Python / Pandas for data inspection and preparation; MySQL for importing, querying and comparing time-series observations; Excel and Tableau for reporting and dashboard presentation.
 
 ## Current status
 
-**Data preparation and MySQL practice:** started.  
+**Data preparation and MySQL practice:** documented.  
+**SQL scripts:** available in the `SQL/` folder.  
 **Dashboard:** to be added by the author.  
-**Further work:** document the final SQL queries, validate key historical comparisons against ONS definitions, and publish dashboard screenshots or a Tableau workbook.
+**Further work:** validate historical comparisons against ONS definitions and publish dashboard screenshots or a Tableau workbook.
+
+## SQL files
+
+- `SQL/01_Data_Exploration.sql` — table inspection, schema review, record count and data preview.
+- `SQL/02_Financial_Crisis_Comparison.sql` — annual average employment and unemployment comparison for 1979–1987 and 2007–2015.
 
 ## Data quality and interpretation
 
