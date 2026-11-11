@@ -24,7 +24,7 @@ An interactive Excel dashboard exploring job-posting and salary data for data an
 ## Important notes
 This is a data-science labour-market project, not an HR employee-data project. It is included as an additional Excel and dashboard example alongside the People Analytics portfolio.
 
-The workbook is retained in its original format. Review formulas and refresh behaviour in desktop Excel before presenting it. The data appears to contain international job postings and should not be interpreted as a UK salary benchmark without filtering and validating the geography and salary units.
+The original workbook has been inspected locally but is not yet stored in this GitHub folder. Upload `1_Salary_Dashboard.xlsx` to this folder before treating the project as fully backed up. Review formulas and refresh behaviour in desktop Excel before presenting it. The data appears to contain international job postings and should not be interpreted as a UK salary benchmark without filtering and validating the geography and salary units.
 
 ## File
-Open 1_Data_Science_Salary_Dashboard.xlsx in Microsoft Excel.
+Local source file: `1_Salary_Dashboard.xlsx`.
